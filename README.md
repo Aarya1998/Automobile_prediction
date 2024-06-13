@@ -6,5 +6,5 @@ Predict automobile price using Machine Learning Use Machine learning to predict 
 3.Pick the best variable for making a simple linear regression model.
 4.Perform train test split.
 5.Build model using best variable and report the R2.
-6.Make a multiple regression model o Apply feature selection approaches discussed in the class.
-7.Final model should be interpretable o What is your understanding of the factors that drive price?
+6.Make a multiple regression model and Apply feature selection.
+7.Final model should be interpretable. What is your understanding of the factors that drive price?
