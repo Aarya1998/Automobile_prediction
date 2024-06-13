@@ -1,10 +1,10 @@
 # Automobile_prediction
 Predict automobile price using Machine Learning Use Machine learning to predict the price of a car based on several characteristics. The objective is to build a model to understand the factors that drive the car of the price. This will help your automobile company launch their new car in the market effectively by pricing it better. Tasks:
 
-Perform EDA on the data
-Perform data cleanup as required
-Pick the best variable for making a simple linear regression model
-Perform train test split
-Build model using best variable and report the R2
-Make a multiple regression model o Apply feature selection approaches discussed in the class
-Final model should be interpretable o What is your understanding of the factors that drive price?
+1.Perform EDA on the data.
+2.Perform data cleanup as required.
+3.Pick the best variable for making a simple linear regression model.
+4.Perform train test split.
+5.Build model using best variable and report the R2.
+6.Make a multiple regression model o Apply feature selection approaches discussed in the class.
+7.Final model should be interpretable o What is your understanding of the factors that drive price?
